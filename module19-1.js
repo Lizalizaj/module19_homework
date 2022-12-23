@@ -1,8 +1,8 @@
 //Задание 1.
 
 const user = {
-	имя: 'Ivan',
-	фамилия: 'Klimov'
+	имя: 'Elizaveta',
+	фамилия: 'Yakovleva'
 }; 
 
 function db(usr) {
